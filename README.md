@@ -8,3 +8,5 @@
 2. Diagrams
 
 3. Coding
+
+4. Online tasks
